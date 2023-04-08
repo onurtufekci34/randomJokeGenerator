@@ -9,7 +9,7 @@ CSS
 JavaScript
 
 # API Used
-The app uses the JokeAPI to fetch a random joke.
+The app uses the JokeAPI(https://v2.jokeapi.dev/joke/Any?type=single&amount=1) to fetch a random joke.
 
 # How to Use
 Click on the "Generate" button to get a random joke.
