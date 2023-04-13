@@ -18,8 +18,6 @@ The joke will appear below the button.
 Clone the repository: git clone https://github.com/yourusername/random-joke-generator.git
 Open index.html in your web browser.
 
-# Credits
-The app was created by Your Name.
 
 # License
 This project is licensed under the MIT License.
